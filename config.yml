@@ -5,7 +5,7 @@
   :block_mode: irreversible
   
   # Main account name.
-  :account_name: social
+  :account_name: steemegg
   
   # Account to use for voting.  Use this if delegation is not supported or
   # desired.  You can leave this unset to default to account_name.
@@ -61,7 +61,7 @@
   :reserve_vote_weight: 0.00 %
   
   # Minimum bid amount.
-  :minimum_bid: 2.000 SBD
+  :minimum_bid: 0.001 SBD
   
   # List of alternative assets to allow by using current market rate reported by
   # the Market History API.
